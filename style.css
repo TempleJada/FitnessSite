@@ -147,7 +147,7 @@ header .toggle img {
     filter: invert(1)
 }
 
-@media {
+/*@media {
     (max-width: 991px)
 }
 
